@@ -7,7 +7,7 @@ I build cool apps. Trying to learn and experiment more with AI/ML.
 ---
 | Project | Repo | Demo |
 |--------|------|------|
-| **RedditRadar** – Quantifiable Reddit Review App | [GitHub]([https://github.com/EpicSRN021/reddit-review-qualitative-to-quantitative]) | [YouTube](https://youtube.com/yourvideo) |
+| **RedditRadar** – Quantifiable Reddit Review App | [GitHub](https://github.com/EpicSRN021/reddit-review-qualitative-to-quantitative) | [YouTube](https://youtube.com/yourvideo) |
 
 
 
