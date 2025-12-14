@@ -9,7 +9,6 @@ I build cool apps. Trying to learn and experiment more with AI/ML.
 ## 🔧 Recent Projects
 
 | Project | Repo | Demo |
-|-------|------|------|------|
 | **RedditRadar** – Quantifiable Reddit Review App | [GitHub](https://github.com/EpicSRN021/reddit-review-qualitative-to-quantitative) | [YouTube](#) | 
 
 
