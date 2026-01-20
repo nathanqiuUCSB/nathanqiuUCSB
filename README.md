@@ -1,6 +1,4 @@
-## Nathan Qiu's Github Portoflio 😎
-
-I build cool apps. Trying to learn and experiment more with AI/ML. 
+## Nathan Qiu's Github Portoflio 😎 
 
 **[LinkedIn](#)** •  **[Resume](#)** 
 
