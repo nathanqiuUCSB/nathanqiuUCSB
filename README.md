@@ -1,6 +1,6 @@
 ## Nathan Qiu's Github Portoflio 😎 
 
-**[LinkedIn](#)** •  **[Resume](#)** 
+**[LinkedIn](www.linkedin.com/in/nathan-qiu-b214ba30a)** •  **[Resume](#)** 
 
 ---
 | Project | Repo | Demo |
