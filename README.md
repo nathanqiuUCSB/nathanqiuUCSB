@@ -5,7 +5,7 @@
 ---
 | Project | Repo | Resources |
 |--------|------|------|
-| **Reducing Vulnerability Information Leakage from Public IDS Rules** – Experimental research framework for improving public IDS rules | [GitHub]() | [Poster](ACTION-AI-Poster.pdf) |
+| **Reducing Vulnerability Information Leakage from Public IDS Rules** – Experimental research framework for improving public IDS rules | [GitHub](https://github.com/nathanqiuUCSB/reducing-ids-rule-leakage) | [Poster](ACTION-AI-Poster.pdf) |
 | **RedditRadar** – Quantifiable Reddit Review App | [GitHub](https://github.com/EpicSRN021/reddit-review-qualitative-to-quantitative) | [Demo](https://youtu.be/Ft5MOh9TTEM) |
 | **ExtendAble** – Voice Controlled Robotic Arm | [GitHub](https://github.com/nathanqiuUCSB/ExtendAble) | [Demo](https://www.youtube.com/watch?v=e0lhDRYjyEc) |
 
