@@ -1,6 +1,6 @@
 ## Nathan Qiu's Github Portoflio 😎 
 
-**[LinkedIn](https://www.linkedin.com/in/nathan-qiu-b214ba30a)** • **[Resume](Nathan_Qiu_Resume.pdf)**
+**[LinkedIn](https://www.linkedin.com/in/nathan-qiu-b214ba30a)** • **[Resume](Nathan_Qiu_Resume.pdf)** • **[Website](https://nathanqiuucsb.github.io/)**
 
 ---
 | Project | Repo | Resources |
