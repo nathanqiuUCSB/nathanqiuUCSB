@@ -8,7 +8,7 @@
 | **Reducing Vulnerability Information Leakage from Public IDS Rules** – Experimental research framework for improving public IDS rules | [GitHub](https://github.com/nathanqiuUCSB/reducing-ids-rule-leakage) | [Poster](ACTION-AI-Poster.pdf) |
 | **RedditRadar** – Quantifiable Reddit Review App | [GitHub](https://github.com/EpicSRN021/reddit-review-qualitative-to-quantitative) | [Demo](https://youtu.be/Ft5MOh9TTEM) |
 | **ExtendAble** – Voice Controlled Robotic Arm | [GitHub](https://github.com/nathanqiuUCSB/ExtendAble) | [Demo](https://www.youtube.com/watch?v=e0lhDRYjyEc) |
-| **Chrono** – Computer Vision Fitness App | [GitHub]() | [Download]([https://www.youtube.com/watch?v=e0lhDRYjyEc](https://apps.apple.com/us/app/chrono-fitness-tracker/id6761152528)) |
+| **Chrono** – Computer Vision Fitness App |  | [Download](https://apps.apple.com/us/app/chrono-fitness-tracker/id6761152528) |
 | **GrecoCam** – Face Detecting Security Camera | [GitHub](https://github.com/nathanqiuUCSB/grecoCam) |  |
 
 
